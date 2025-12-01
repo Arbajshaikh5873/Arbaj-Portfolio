@@ -492,7 +492,7 @@ const Portfolio = () => {
         "React Router Navigation",
       ],
       github: "https://github.com/Arbajshaikh5873/PasteApp",
-      link: "https://github.com/Arbajshaikh5873/PasteApp",
+      link: "https://portfolio-hmlur4m92-sarbaj637-gmailcoms-projects.vercel.app/",
       icon: "fa-clipboard",
     },
   ];
