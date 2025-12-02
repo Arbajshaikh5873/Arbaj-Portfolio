@@ -28,7 +28,7 @@ function Projects() {
         "Built a web application for storing notes and code snippets with full CRUD functionality and search capabilities. Implemented Redux for state management and React Router for seamless navigation.",
       tech: ["React.js", "Redux", "React Router", "JavaScript"],
       github: "https://github.com/Arbajshaikh5873/PasteApp",
-      link: "https://arbaj-portfolio-six.vercel.app/",
+      link: "https://paste-app-ten-liard.vercel.app/",
     },
   ];
 
