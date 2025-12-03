@@ -21,13 +21,17 @@ function Hero({ scrollToSection }) {
             <i className="bi bi-github"></i>
           </a>
           <a
-            href="https://linkedin.com/in/arbajshaikh5873"
+            href="https://www.linkedin.com/in/arbaj-shaikh-b9a8b7228"
             target="_blank"
             rel="noopener noreferrer"
           >
             <i className="bi bi-linkedin"></i>
           </a>
-          <a href="mailto:arbajshaikh5873@gmail.com">
+          <a
+            href="https://mail.google.com/mail/?view=cm&fs=1&to=arbajshaikh5873@gmail.com&su=Hello&body=I%20want%20to%20connect"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             <i className="bi bi-envelope"></i>
           </a>
         </div>

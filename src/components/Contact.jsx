@@ -17,10 +17,16 @@ function Contact() {
             possible!
           </p>
           <div>
-            <a href="mailto:arbajshaikh5873@gmail.com" className="contact-link">
+            <a
+              href="https://mail.google.com/mail/?view=cm&fs=1&to=arbajshaikh5873@gmail.com&su=Hello&body=I%20want%20to%20connect"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="contact-link"
+            >
               <i className="bi bi-envelope-fill"></i>
               arbajshaikh5873@gmail.com
             </a>
+
             <a href="tel:+917387779339" className="contact-link">
               <i className="bi bi-telephone-fill"></i>
               +91-7387779339
